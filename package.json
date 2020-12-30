@@ -1,8 +1,8 @@
 {
-  "name": "template-entity-library",
+  "name": "template-backend-library",
   "version": "1.0.0",
   "private": true,
-  "description": "Entity Library Template",
+  "description": "Backend Library Template",
   "main": "./lib/index.js",
   "files": [
     "lib"
